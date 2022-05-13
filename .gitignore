@@ -1,0 +1,6 @@
+/dataset/**/VOCdevkit/**
+/dataset/**/**.tar
+**.ipynb
+**.pt
+**/__pycache__
+**/.ipynb_checkpoints

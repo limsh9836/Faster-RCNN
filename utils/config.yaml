@@ -1,0 +1,12 @@
+train:
+  rpn:
+    pos_ratio: 0.5
+    n_sample: 256
+    pos_threshold: 0.7
+    neg_threshold: 0.3
+    
+  detection:
+    pos_ratio: 0.25
+    n_sample: 128
+    pos_threshold: 0.5
+    neg_threshold: [0.1, 0.5]
